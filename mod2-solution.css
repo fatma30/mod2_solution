@@ -1,2 +1,8 @@
 .contanier{width:940px}
 header{hieght:40px}
+div {width:280px;
+  hieght:400px;
+  border:1px solid;
+  float:left;
+  background:red
+}
